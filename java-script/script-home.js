@@ -1,9 +1,5 @@
 let portfolios
-let HTMLElements = {
-}
-
-function getHTMLElements(){
-}
+let artWorks
 
 async function getPortfolios(){
     let response
@@ -15,17 +11,18 @@ async function getPortfolios(){
         console.log(error)
     }
     portfolios = await response.json()
+    artWorks = portfolios.allArtwork
     console.log(portfolios)
 }
 
 function addImages(portfolio){
     let photos = portfolio.photos
-    console.log(photos)
     for(i=0; i<photos.length; i++){
         let imageHolder = document.querySelector(`#image-holder`)
         let newIMG = document.createElement(`img`)
 
-        let photo = photos[i]
+        let photoId = photos[i]
+        let photo = artWorks[photoId]
 
         newIMG.setAttribute('src', photo.jpg)
         newIMG.setAttribute('alt', photo.alt)
@@ -37,9 +34,7 @@ function addImages(portfolio){
 
 async function runProgram(){
     console.log('runProgram');
-    getHTMLElements()
     await getPortfolios()
-    addImages(portfolios.xvii)
     addImages(portfolios.newYork)
     //your code goes here
 }

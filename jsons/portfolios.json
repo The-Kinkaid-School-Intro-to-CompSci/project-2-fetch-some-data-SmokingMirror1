@@ -1,76 +1,350 @@
 {
-    "bodiesOfWork": ["newYork", "newOrleans"],
-    "bodiesOfWorkIds": {
-        "ny": "newYork",
-        "no": "newOrleans"
+    "allArtwork": {
+        "pm1": {
+            "title": "The Upside Down",
+            "alt": "A house in white with an unside down version of the house in black",
+            "jpg": "art/printmaking/printmaking-1.jpg",
+            "alignment": "vertical"
+        },
+        "xvii1": {
+            "alt": "A twisted tree covered in vines",
+            "jpg": "art/photo/2017-2020/2017/2017-1.JPG",
+            "alignment": "horizontal"
+        },
+        "xvii2": {
+            "alt": "Purple and Yellow flowers with a red lady bug on one of them",
+            "jpg": "art/photo/2017-2020/2017/2017-2.JPG",
+            "alignment": "vertical"
+        },
+        "xvii3": {
+            "alt": "Porus Rocks",
+            "jpg": "art/photo/2017-2020/2017/2017-3.JPG",
+            "alignment": "vertical"
+        },
+        "xvii4": {
+            "alt": "Twisting Vines",
+            "jpg": "art/photo/2017-2020/2017/2017-4.JPG",
+            "alignment": "square"
+        },
+        "xvii5": {
+            "alt": "Turtles on a log in a pond filled with lily pads",
+            "jpg": "art/photo/2017-2020/2017/2017-5.JPG",
+            "alignment": "horizontal"
+        },
+        "xvii6": {
+            "alt": "Brick Wall with Ivy",
+            "jpg": "art/photo/2017-2020/2017/2017-6.JPG",
+            "alignment": "horizontal"
+        },
+        "xviii1": {
+            "alt": "Blue sky with a mail truck and trees",
+            "jpg": "art/photo/2017-2020/2018/2018-1.JPG",
+            "alignment": "horizontal"
+        },
+        "xviii2": {
+            "alt": "Fairy lights on a tree",
+            "jpg": "art/photo/2017-2020/2018/2018-2.JPG",
+            "alignment": "horizontal"
+        },
+        "xviii3": {
+            "alt": "Red carpet on a wooden floor with golden confetti",
+            "jpg": "art/photo/2017-2020/2018/2018-3.JPG",
+            "alignment": "horizontal"
+        },
+        "xviii4": {
+            "alt": "Paint Cart",
+            "jpg": "art/photo/2017-2020/2018/2018-4.JPG",
+            "alignment": "horizontal"
+        },
+        "xviii5": {
+            "alt": "Brick flooring",
+            "jpg": "art/photo/2017-2020/2018/2018-5.JPG",
+            "alignment": "vertical"
+        },
+        "xviii6": {
+            "alt": "A mural of a dragon",
+            "jpg": "art/photo/2017-2020/2018/2018-6.JPG",
+            "alignment": "horizontal"
+        },
+        "xviii7": {
+            "alt": "Metal leaves",
+            "jpg": "art/photo/2017-2020/2018/2018-7.JPG",
+            "alignment": "horizontal"
+        },
+        "xviii8": {
+            "alt": "A brick wall",
+            "jpg": "art/photo/2017-2020/2018/2018-8.JPG",
+            "alignment": "horizontal"
+        },
+        "xviii9": {
+            "alt": "A grassy path",
+            "jpg": "art/photo/2017-2020/2018/2018-9.JPG",
+            "alignment": "horizontal"
+        },
+        "xviii10": {
+            "alt": "A wooden beam",
+            "jpg": "art/photo/2017-2020/2018/2018-10.JPG",
+            "alignment": "vertical"
+        },
+        "xviii11": {
+            "alt": "Small balls of snow",
+            "jpg": "art/photo/2017-2020/2018/2018-11.JPG",
+            "alignment": "horizontal"
+        },
+        "xviii12": {
+            "alt": "Snowy landscape on a clear day with powerlines",
+            "jpg": "art/photo/2017-2020/2018/2018-12.JPG",
+            "alignment": "horizontal"
+        },
+        "xviii13": {
+            "alt": "A quilt",
+            "jpg": "art/photo/2017-2020/2018/2018-13.JPG",
+            "alignment": "horizontal"
+        },
+        "xix1": {
+            "title": "House",
+            "alt": "Red and Blue Window Surronded by Vines",
+            "jpg": "art/photo/2017-2020/2019/2019-1.jpg",
+            "alignment": "horizontal"
+        },
+        "xix2": {
+            "alt": "Tree Bark",
+            "jpg": "art/photo/2017-2020/2019/2019-2.jpg",
+            "alignment": "vertical"
+        },
+        "xix3": {
+            "alt": "Snowy Foot Prints",
+            "jpg": "art/photo/2017-2020/2019/2019-3.jpg",
+            "alignment": "horizontal"
+        },
+        "xix4": {
+            "alt": "Rain on a Window",
+            "jpg": "art/photo/2017-2020/2019/2019-4.jpg",
+            "alignment": "horizontal"
+        },
+        "xix5": {
+            "alt": "Ocean hitting the beach",
+            "jpg": "art/photo/2017-2020/2019/2019-5.jpg",
+            "alignment": "horizontal"
+        },
+        "xix6": {
+            "alt": "Photograph of a black lab named Sam sitting",
+            "jpg": "art/photo/2017-2020/2019/2019-6.jpg",
+            "alignment": "horizontal"
+        },
+        "xix7": {
+            "alt": "Photograph of a black lab with drool on her nose name April sitting",
+            "jpg": "art/photo/2017-2020/2019/2019-7.jpg",
+            "alignment": "horizontal"
+        },
+        "xix8": {
+            "alt": "Three Ferns growing in black rocks",
+            "jpg": "art/photo/2017-2020/2019/2019-8.jpg",
+            "alignment": "horizontal"
+        },
+        "xix9": {
+            "title": "Tornado Warnings",
+            "alt": "A stormy sky with clear skys and mountains in the distance",
+            "jpg": "art/photo/2017-2020/2019/2019-9.jpg",
+            "alignment": "horizontal"
+        },
+        "xx1": {
+            "alt": "Poinsettias",
+            "jpg": "art/photo/2017-2020/2020/2020-1.jpg",
+            "alignment": "vertical",
+            "id": "xx1"
+        },
+        "xx2": {
+            "title": "Run Down Dock",
+            "alt": "A run down dock at sunset",
+            "jpg": "art/photo/2017-2020/2020/2020-2.jpg",
+            "alignment": "horizontal",
+            "id": "xx2"
+        },
+        "xx3": {
+            "title": "Pedestals",
+            "alt": "Empty art pedestals",
+            "jpg": "art/photo/2017-2020/2020/2020-3.jpg",
+            "alignment": "horizontal",
+            "id": "xx3"
+        },
+        "xx4": {
+            "alt": "Blue umbrella with flare from the sun peaking through",
+            "jpg": "art/photo/2017-2020/2020/2020-4.jpg",
+            "alignment": "horizontal",
+            "id": "xx4"
+        },
+        "no1": {
+            "title": "Bike",
+            "alt": "Blue bike with sunflowers in the basket leaned up against a light post.",
+            "jpg": "art/photo/new-orleans/new-orleans-1.jpg",
+            "alignment": "horizontal"
+        },
+        "no2": {
+            "title": "River Boat",
+            "alt": "Wheel of a New Orleans river boat with a bridge in the background.",
+            "jpg": "art/photo/new-orleans/new-orleans-2.jpg",
+            "alignment": "horizontal"
+        },
+        "no3": {
+            "title": "Bourbon Street",
+            "alt": "Bourbon Street on a rainy day.",
+            "jpg": "art/photo/new-orleans/new-orleans-3.jpg",
+            "alignment": "horizontal"
+        },
+        "no4": {
+            "title": "Fortune Teller",
+            "alt": "Two fortune tellers on the street of New Orleans.",
+            "jpg": "art/photo/new-orleans/new-orleans-4.jpg",
+            "alignment": "horizontal"
+        },
+        "no5": {
+            "title": "House",
+            "alt": "A grey-green house with a power line infront with a pair of shoes on it.",
+            "jpg": "art/photo/new-orleans/new-orleans-5.jpg",
+            "alignment": "horizontal"
+        },
+        "no6": {
+            "title": "Lamps",
+            "alt": "Bronze lamps.",
+            "jpg": "art/photo/new-orleans/new-orleans-6.jpg",
+            "alignment": "horizontal"
+        },
+        "no7": {
+            "title": "Teddy Bears",
+            "alt": "White house with alot of teddy bears in the second floor door.",
+            "jpg": "art/photo/new-orleans/new-orleans-7.jpg",
+            "alignment": "horizontal"
+        },
+        "no8": {
+            "title": "Bike",
+            "alt": "Blue bike with sunflowers in the basket leaned up against a light post.",
+            "jpg": "art/photo/new-orleans/new-orleans-8.jpg",
+            "alignment": "horizontal"
+        },
+        "no9": {
+            "title": "Bike",
+            "alt": "Blue bike with sunflowers in the basket leaned up against a light post.",
+            "jpg": "art/photo/new-orleans/new-orleans-9.jpg",
+            "alignment": "horizontal"
+        },
+        "no10": {
+            "title": "Bike",
+            "alt": "Blue bike with sunflowers in the basket leaned up against a light post.",
+            "jpg": "art/photo/new-orleans/new-orleans-10.jpg",
+            "alignment": "horizontal"
+        },
+        "no11": {
+            "title": "Bike",
+            "alt": "Blue bike with sunflowers in the basket leaned up against a light post.",
+            "jpg": "art/photo/new-orleans/new-orleans-11.jpg",
+            "alignment": "vertical"
+        },
+        "ny1": {
+            "title": "Water Tower",
+            "alt": "A cityscape filled with brown and yellow buildings and a watertower.",
+            "jpg": "art/photo/new-york/new-york-1.jpg",
+            "alignment": "horizontal"
+        },
+        "ny2": {
+            "title": "Skyline",
+            "alt": "A skyline of New York City.",
+            "jpg": "art/photo/new-york/new-york-2.jpg",
+            "alignment": "horizontal"
+        },
+        "ny3": {
+            "title": "Weirdo",
+            "alt": "A portait of a bald man looking into a mirror.",
+            "jpg": "art/photo/new-york/new-york-3.jpg",
+            "alignment": "square"
+        },
+        "ny4": {
+            "title": "Pink Flowers",
+            "alt": "A still life of pink flowers growing along a New York City path.",
+            "jpg": "art/photo/new-york/new-york-4.jpg",
+            "alignment": "horizontal"
+        },  
+        "ny5": {
+            "title": "Women Walking",
+            "alt": "A portait of a women walking along a New York City path on a windy day.",
+            "jpg": "art/photo/new-york/new-york-5.jpg",
+            "alignment": "vertical"
+        },
+        "ny6": {
+            "title": "Street",
+            "alt": "A cityscape of a busy city street.",
+            "jpg": "art/photo/new-york/new-york-6.jpg",
+            "alignment": "vertical"
+        },
+        "ny7": {
+            "title": "Framed",
+            "alt": "A still life looking through a concrete structure.",
+            "jpg": "art/photo/new-york/new-york-7.jpg",
+            "alignment": "vertical"
+        },
+        "bh1": {
+            "title": "Mourning Cloak Chair",
+            "alt": "A old rocking chair with a bright window",
+            "jpg": "art/photo/butterfly-house/butterfly-house-1.jpg",
+            "alignment": "vertical"
+        },
+        "bh2": {
+            "title": "",
+            "alt": "",
+            "jpg": "art/photo/butterfly-house/butterfly-house-2.jpg",
+            "alignment": "horizontal"
+        },
+        "bh3": {
+            "title": "Clouded Skipper Mirror",
+            "alt": "",
+            "jpg": "art/photo/butterfly-house/butterfly-house-3.jpg",
+            "alignment": "horizontal"
+        }
     },
-    "yearsOfWork":["twentySeventeen", "2018"],
-    "yearsOfWorkIds": {
-        "xvii": "2017",
-        "xviii": "2018",
-        "xix": "2019",
-        "xx": "2020"
+
+    "printmaking": {
+        "title": "Printmaking",
+        "year": 2019,
+        "medium": "Printmaking",
+        "grade": "8",
+        "cover": "pm1",
+        "photos": ["pm1"]
     },
+
     "xvii": {
         "title": "2017",
         "year": 2017,
         "medium": "Photography",
         "grade": "5-6",
         "cover": "xvii5",
-        "photos": [
-            {
-                "alt": "A twisted tree covered in vines",
-                "jpg": "art/photo/2017-2020/2017/2017-1.JPG",
-                "alignment": "horizontal",
-                "id": "xvii1"
-            },
-            {
-                "alt": "Purple and Yellow flowers with a red lady bug on one of them",
-                "jpg": "art/photo/2017-2020/2017/2017-2.JPG",
-                "alignment": "vertical",
-                "id": "xvii2"
-            },
-            {
-                "alt": "Porus Rocks",
-                "jpg": "art/photo/2017-2020/2017/2017-3.JPG",
-                "alignment": "vertical",
-                "id": "xvii3"
-            },
-            {
-                "alt": "Twisting Vines",
-                "jpg": "art/photo/2017-2020/2017/2017-4.JPG",
-                "alignment": "square",
-                "id": "xvii4"
-            },
-            {
-                "alt": "Turtles on a log in a pond filled with lily pads",
-                "jpg": "art/photo/2017-2020/2017/2017-5.JPG",
-                "alignment": "horizontal",
-                "id": "xvii5"
-            },
-            {
-                "alt": "Brick Wall with Ivy",
-                "jpg": "art/photo/2017-2020/2017/2017-6.JPG",
-                "alignment": "horizontal",
-                "id": "xvii6"
-            }
-        ]
+        "photos": [ "xvii1", "xvii2", "xvii3", "xvii4", "xvii5", "xvii6"]
     },
 
-    "2018": {
+    "xviii": {
         "title": "2018",
         "year": 2018,
         "medium": "Photography",
         "grade": "6-7",
-        "cover": "18",
-        "photo": [
-            {
-                "alt": "A twisted tree covered in vines",
-                "jpg": "art/photo/2017-2020/2018/2018-1.JPG",
-                "alignment": "horizontal",
-                "id": "181"
-            }
-        ]
+        "cover": "xviii2",
+        "photos": ["xviii1", "xviii2", "xviii3", "xviii4", "xviii5", "xviii6", "xviii7", "xviii8", "xviii9", "xviii10", "xviii11", "xviii12", "xviii13"]
+    },
+    
+    "xix": {
+        "title": "2019",
+        "year": 2019,
+        "medium": "Photography",
+        "grade": "7-8",
+        "cover": "xix1",
+        "photos": ["xix1", "xix2", "xix3", "xix4", "xix5", "xix6", "xix7", "xix8", "xix9"]
+    },
+
+    "xx": {
+        "title": "2020",
+        "year": 2020,
+        "medium": "Photography",
+        "grade": "8-9",
+        "cover": "xx4",
+        "photos": ["xx1", "xx2", "xx3", "xx4"]
     },
 
     "newOrleans":{
@@ -80,86 +354,9 @@
         "grade": "11",
         "artistStatement": "New Orleans is known for a mix of cultures. It is colorful and vibrant while also showing signs of age and decay. As I got the chance to explore New Orleans, I took hundreds of photos capturing the architecture, people, and objects of New Orleans. I grew a lot as a photographer through this trip as I paid closer attention to the small details of the city and grew more confident in asking people if I could take their portraits. It also helped me realize that I love to document places, people and events in my photography. It forces me to look at the area with a new perspective. It allows me to find beauty in all aspects of the space and helps calm some of my anxiety.",
         "cover": "no3",
-        "photos": [
-            {
-                "title": "Bike",
-                "alt": "Blue bike with sunflowers in the basket leaned up against a light post.",
-                "jpg": "art/photo/new-orleans/new-orleans-1.jpg",
-                "alignment": "horizontal",
-                "id": "no1"
-            },
-            {
-                "title": "River Boat",
-                "alt": "Wheel of a New Orleans river boat with a bridge in the background.",
-                "jpg": "art/photo/new-orleans/new-orleans-2.jpg",
-                "alignment": "horizontal",
-                "id": "no2"
-            },
-            {
-                "title": "Bourbon Street",
-                "alt": "Bourbon Street on a rainy day.",
-                "jpg": "art/photo/new-orleans/new-orleans-3.jpg",
-                "alignment": "horizontal",
-                "id": "no3"
-            },
-            {
-                "title": "Fortune Teller",
-                "alt": "Two fortune tellers on the street of New Orleans.",
-                "jpg": "art/photo/new-orleans/new-orleans-4.jpg",
-                "alignment": "horizontal",
-                "id": "no4"
-            },
-            {
-                "title": "House",
-                "alt": "A grey-green house with a power line infront with a pair of shoes on it.",
-                "jpg": "art/photo/new-orleans/new-orleans-5.jpg",
-                "alignment": "horizontal",
-                "id": "no5"
-            },
-            {
-                "title": "Lamps",
-                "alt": "Bronze lamps.",
-                "jpg": "art/photo/new-orleans/new-orleans-6.jpg",
-                "alignment": "horizontal",
-                "id": "no6"
-            },
-            {
-                "title": "Teddy Bears",
-                "alt": "White house with alot of teddy bears in the second floor door.",
-                "jpg": "art/photo/new-orleans/new-orleans-7.jpg",
-                "alignment": "horizontal",
-                "id": "no7"
-            },
-            {
-                "title": "Bike",
-                "alt": "Blue bike with sunflowers in the basket leaned up against a light post.",
-                "jpg": "art/photo/new-orleans/new-orleans-8.jpg",
-                "alignment": "horizontal",
-                "id": "no8"
-            },
-            {
-                "title": "Bike",
-                "alt": "Blue bike with sunflowers in the basket leaned up against a light post.",
-                "jpg": "art/photo/new-orleans/new-orleans-9.jpg",
-                "alignment": "horizontal",
-                "id": "no9"
-            },
-            {
-                "title": "Bike",
-                "alt": "Blue bike with sunflowers in the basket leaned up against a light post.",
-                "jpg": "art/photo/new-orleans/new-orleans-10.jpg",
-                "alignment": "horizontal",
-                "id": "no10"
-            },
-            {
-                "title": "Bike",
-                "alt": "Blue bike with sunflowers in the basket leaned up against a light post.",
-                "jpg": "art/photo/new-orleans/new-orleans-11.jpg",
-                "alignment": "vertical",
-                "id": "no11"
-            }
-        ]
+        "photos": ["no1", "no2", "no3", "no4", "no5", "no6", "no7", "no8", "no9", "no10", "no11"]
     },
+
     "newYork":{
         "title": "New York",
         "year": 2024,
@@ -168,150 +365,126 @@
         "artistStatement": "Hello",
         "id": "ny",
         "cover": "ny4",
-        "photos": [
-            {
-                "title": "Water Tower",
-                "alt": "A cityscape filled with brown and yellow buildings and a watertower.",
-                "jpg": "art/photo/new-york/new-york-1.jpg",
-                "alignment": "horizontal",
-                "id": "ny1"
-            },
-            {
-                "title": "Skyline",
-                "alt": "A skyline of New York City.",
-                "jpg": "art/photo/new-york/new-york-2.jpg",
-                "alignment": "horizontal",
-                "id": "ny2"
-            },
-            {
-                "title": "Weirdo",
-                "alt": "A portait of a bald man looking into a mirror.",
-                "jpg": "art/photo/new-york/new-york-3.jpg",
-                "alignment": "square",
-                "id": "ny3"
-            },
-            {
-                "title": "Pink Flowers",
-                "alt": "A still life of pink flowers growing along a New York City path.",
-                "jpg": "art/photo/new-york/new-york-4.jpg",
-                "alignment": "horizontal",
-                "id": "ny4"
-            },  
-            {
-                "title": "Women Walking",
-                "alt": "A portait of a women walking along a New York City path on a windy day.",
-                "jpg": "art/photo/new-york/new-york-5.jpg",
-                "alignment": "vertical",
-                "id": "ny5"
-            },
-            {
-                "title": "Street",
-                "alt": "A cityscape of a busy city street.",
-                "jpg": "art/photo/new-york/new-york-6.jpg",
-                "alignment": "vertical",
-                "id": "ny6"
-            },
-            {
-                "title": "Framed",
-                "alt": "A still life looking through a concrete structure.",
-                "jpg": "art/photo/new-york/new-york-7.jpg",
-                "alignment": "vertical",
-                "id": "ny7"
-            }
-        ]
+        "photos": ["ny1", "ny2", "ny3", "ny4", "ny5", "ny6", "ny7"]
     },
+
+    "butterflyHouse":{
+        "title": "Butterfly House",
+        "year": 2023,
+        "medium": "Photography",
+        "grade": "11",
+        "artistStatement": "Hello",
+        "id": "bh",
+        "cover": "bh3",
+        "photos": ["bh1", "bh2", "bh3"]
+    },
+
+    "awards":["scholastic2020", "scholastic2021", "scholastic2022", "scholastic2023", "scholastic2024", "atpi2024", "atlantaHighSchoolFilmFestival2024"],
 
     "awardWinning":{
         "scholastic2020":{
-            "Tornado Warnings":{
-                "id": "??",
+            "name": "Scholastic 2020",
+            "titles": ["tornadoWarnings", "house", "theUpsideDown"],
+            "tornadoWarnings":{
+                "id": "xix9",
                 "award": "Silver Key",
                 "category": "Photography"
             },
-            "House":{
-                "id": "??",
+            "house":{
+                "id": "xix1",
                 "award": "Silver Key",
                 "category": "Photography"
             },
-            "The Upside Down":{
-                "id": "??",
+            "theUpsideDown":{
+                "id": "pm1",
                 "award": "Silver Key",
                 "category": "Printmaking"
             }
         },
         "scholastic2021":{
-            "Run Down Dock":{
-                "id": "??",
+            "name": "Scholastic 2021",
+            "titles": ["runDownDock", "pedestals"],
+            "runDownDock":{
+                "id": "xx2",
                 "award": "Honorable Mention",
                 "category": "Photography"
             },
-            "Pedestals":{
-                "id": "??",
+            "pedestals":{
+                "id": "xx3",
                 "award": "Honorable Mention",
                 "category": "Photography"
             }
         },
         "scholastic2022":{
-            "Self Portrait":{
+            "name": "Scholastic 2022",
+            "titles": ["selfPortrait", "escalator"],
+            "selfPortrait":{
                 "id": "??",
                 "award": "Honorable Mention",
                 "category": "Photography"
             },
-            "Escalator":{
+            "escalator":{
                 "id": "??",
                 "award": "Honorable Mention",
                 "category": "Photography"
             }
         },
         "scholastic2023":{
-            "Mourning Cloak Chair":{
-                "id": "??",
+            "name": "Scholastic 2023",
+            "titles": ["mourningCloakChair", "cloudedSkipperMirror", "bridgeToNowhere", "peafowl"],
+            "mourningCloakChair":{
+                "id": "bh1",
                 "award": "Silver Key",
                 "category": "Photography"
             },
-            "Clouded Skipper Mirror":{
+            "cloudedSkipperMirror":{
+                "id": "bh3",
+                "award": "Honorable Mention",
+                "category": "Photography"
+            },
+            "bridgeToNowhere":{
                 "id": "??",
                 "award": "Honorable Mention",
                 "category": "Photography"
             },
-            "Bridge to Nowhere":{
-                "id": "??",
-                "award": "Honorable Mention",
-                "category": "Photography"
-            },
-            "Peafowl":{
+            "peafowl":{
                 "id": "??",
                 "award": "Honorable Mention",
                 "category": "Design"
             }
         },
         "scholastic2024":{
-            "Buiding of Colors":{
+            "name": "Scholastic 2024",
+            "titles": ["buildingOfColors", "ravenfell"],
+            "buildingOfColors":{
                 "id": "??",
                 "award": "Gold Key",
                 "category": "Digital Art"
             },
-            "Ravenfell":{
+            "ravenfell":{
                 "id": "??",
-                "award":"Silver Key",
+                "award":"Honorable Mention",
                 "category": "Design"
             }
         },
         "atpi2024":{
-            "women":{
-                "title": "Woment in the Window",
+            "name": "Association Of Texas Photograph Instructors Contest 2024",
+            "titles": ["womenInTheWindow"],
+            "womenInTheWindow":{
                 "id": "no11",
                 "award":"Honorable Mention",
                 "category": "Street Photography"
             }
         },
         "atlantaHighSchoolFilmFestival2024":{
+            "name": "Alanta High School Film Festival 2024",
+            "titles": ["porcelain", "seeYouWhen"],
             "porcelain":{
                 "title": "Porcelain",
                 "id": "??",
                 "award": "Best Actress: Naomi Klinge"
             },
-            "see":{
+            "seeYouWhen":{
                 "title": "See You When",
                 "id": "??",
                 "award": "Finalist"

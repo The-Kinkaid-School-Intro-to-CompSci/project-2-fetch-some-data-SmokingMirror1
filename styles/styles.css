@@ -19,7 +19,46 @@ h1{
   font-style: normal;
   font-size: 40px;
   margin-top: 0px;
+  margin-bottom: 35px;
+}
+
+h2{
+  text-align: center;
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-bottom: 25px;
+}
+
+h3{
+  text-align: center;
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+h4{
+  text-align: left;
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 17px;
+  margin: 0;
+}
+
+h6{
+  text-align: left;
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:10px;
   margin-bottom: 10px;
+  margin-left: 15px;
 }
 
 a{
@@ -50,18 +89,33 @@ a:hover{
     bottom: 10px;
 }
 
+.choosen{
+  text-decoration-line: underline;
+}
+
 .home-image{
   max-height: 350px;
   padding: 10px;
 }
 
+.award-image{
+  max-width: 650px;
+  padding-top: 20px;
+}
+
+.award-div{
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .socail-media{
-  max-height: 40px;
+  max-height: 29px;
   position: fixed;
 }
 
 .link{
-  margin-right: 20px;
+  margin-right: 10px;
 }
 
 #image-holder{
